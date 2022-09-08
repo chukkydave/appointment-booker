@@ -78,7 +78,6 @@ To do:
 ## Acknowledgements
 Give credit here.
 - This project was inspired by codementor's react projects
-- This project was based on [this tutorial](https://www.example.com).
 - Many thanks to [codementor](https://www.codementor.io)
 
 
