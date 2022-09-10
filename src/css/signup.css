@@ -3,5 +3,45 @@
 }
 .bg {
 	background: #1e1e64;
-	height: 100vh;
+}
+
+.bg h2 {
+	font-size: 35px;
+}
+
+.signUp-options {
+	background: #ffffff 0% 0% no-repeat padding-box;
+	box-shadow: 0px 5px 10px #e2dff2;
+	border-radius: 10px;
+	width: 396px;
+	height: 104px;
+}
+
+.iconBg {
+	background: #f6f5fc;
+	height: 55px;
+	width: 55px;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.iconBtn {
+	background: #ffffff 0% 0% no-repeat padding-box;
+	box-shadow: 0px 5px 10px #e2dff2;
+	border-radius: 10px;
+	height: 104px;
+	width: 396px;
+	align-items: center;
+	justify-content: center;
+}
+
+.iconBtn:hover {
+	border-color: transparent;
+}
+
+.h3Title {
+	font-weight: 700;
+	color: #10103e;
 }
